@@ -1,7 +1,13 @@
 body{
     background-color: #AFC8EA;
+    color: #4D5766;
+    font-family:  'Open Sans', sans-serif;
 }
 
 h1{
     color: #2E4566;
+}
+
+h2{
+    color: #5079B3;
 }
