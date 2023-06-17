@@ -1,3 +1,9 @@
+@font-face {
+    font-family: Redshine;
+    src: url(Redshine.ttf) format(truetype);
+}
+
+
 body{
     background-color: #AFC8EA;
     color: #4D5766;
@@ -6,8 +12,10 @@ body{
 
 h1{
     color: #2E4566;
+    font-family:'Redshine', sans-serif;
 }
 
 h2{
     color: #5079B3;
+    font-family:'Redshine', sans-serif;
 }
