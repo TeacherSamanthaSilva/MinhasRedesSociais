@@ -23,3 +23,8 @@ h2{
 a:hover{
     color: #7EB7E0;
 }
+
+a:visited{
+
+    color: #535694;
+}
